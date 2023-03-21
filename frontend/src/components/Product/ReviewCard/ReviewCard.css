@@ -1,0 +1,15 @@
+.reviewCard {
+  border-radius: 2px !important;
+  background: #fff !important;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 4px 4px 0px !important;
+}
+
+.cardImg {
+  width: 100px !important;
+  height: 100px !important;
+}
+
+.cardRating {
+  display: flex;
+  justify-content: center;
+}

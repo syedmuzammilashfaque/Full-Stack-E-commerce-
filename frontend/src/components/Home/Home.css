@@ -1,0 +1,9 @@
+.mainContainer {
+    padding: 0 80px 0 80px !important;
+}
+
+ @media (max-width: 1100px) {
+    .mainContainer {
+        padding: 5px !important;
+    }
+} 
